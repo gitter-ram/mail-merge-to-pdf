@@ -1,6 +1,6 @@
 '''
 
-Author : Harkishan Singh
+Author : Gitter-ram (https://github.com/gitter-ram)
 Date : 06/August/2023
 Description : This is a small script to bulk mail maiil-merged pdfs printed from word. To use this with gmail, generate an application password for your gmail account using the link:
 
