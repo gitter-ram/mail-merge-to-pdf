@@ -14,5 +14,5 @@ This is a small python script to split a PDF printed by word using mail merge an
 10. run the script and answer the questions that follow.
 
 # Troubleshooting
-1. "I have a G-Mail but there is a login error: application specific password ... What do I do?"<br>
-Ans. Go to https://myaccount.google.com/apppasswords and create an app password for your account. Then enter this password in the password section of the script.
+1. **"I have a G-Mail but there is a login error: application specific password ... What do I do?"**<br>
+Go to https://myaccount.google.com/apppasswords and create an app password for your account. Then enter this password in the password section of the script.
